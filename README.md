@@ -1,2 +1,1 @@
-Hello Mam
-how are you?
+hello mam
